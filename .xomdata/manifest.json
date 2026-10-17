@@ -8,5 +8,10 @@
   "practice/python/easy/py-vowels/solution.py": "6d5bcc36e5186d8531bacbbfe2d133760b9a21d353b78fc4aa71bd00a4e7fd93",
   "practice/python/easy/py-word-count/solution.py": "bdb10eecdbccb74f7a449d56bea56ab13527bc776cabd0ef596e2168384511c0",
   "practice/python/easy/py-palindrome/solution.py": "28b3ee8fb083d96e8b0ec6d4107029103e8c929f8d7495dfbe3b80d8feb30baf",
-  "practice/python/easy/py-most-frequent/solution.py": "0f96d6f67969c0ae473c14c83d11446eb89446339dd3ebb52683d2dd8787e802"
+  "practice/python/easy/py-most-frequent/solution.py": "0f96d6f67969c0ae473c14c83d11446eb89446339dd3ebb52683d2dd8787e802",
+  "practice/python/medium/py-fizzbuzz/solution.py": "f2a0df517650a92609bd2cc57c0d9f81b851b7b725f2e2508ec038d9a9cf62df",
+  "practice/python/medium/py-is-prime/solution.py": "313bb2a61d098f17668ded78e229466e9e20788b0ad6dd91056e08453e06bdd8",
+  "practice/python/medium/py-word-frequency/solution.py": "59ef2758f01e6db148ff99ca067e40943bcb23a07c5a0aa0c1863c8a7df60b1b",
+  "practice/python/medium/py-group-category/solution.py": "31a5c37d281b9441ed36ef2748d9fd1a0e035b3be238cd628143b2c630a01abf",
+  "practice/python/medium/py-balanced-brackets/solution.py": "c97a9d3b0789cc7395058c9a6f244090e22119f149e4067377cff44dde321425"
 }
