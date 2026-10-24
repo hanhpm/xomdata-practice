@@ -13,5 +13,14 @@
   "practice/python/medium/py-is-prime/solution.py": "313bb2a61d098f17668ded78e229466e9e20788b0ad6dd91056e08453e06bdd8",
   "practice/python/medium/py-word-frequency/solution.py": "59ef2758f01e6db148ff99ca067e40943bcb23a07c5a0aa0c1863c8a7df60b1b",
   "practice/python/medium/py-group-category/solution.py": "31a5c37d281b9441ed36ef2748d9fd1a0e035b3be238cd628143b2c630a01abf",
-  "practice/python/medium/py-balanced-brackets/solution.py": "c97a9d3b0789cc7395058c9a6f244090e22119f149e4067377cff44dde321425"
+  "practice/python/medium/py-balanced-brackets/solution.py": "c97a9d3b0789cc7395058c9a6f244090e22119f149e4067377cff44dde321425",
+  "practice/python/medium/py-second-largest/solution.py": "9f89eb152b376d20113fc22e8bfa1fbeb5b4411401934d5966e64fde759b26a0",
+  "practice/python/medium/py-top-k/solution.py": "b763335ea2fae0fd7e323909ea680bdee10b2161591dc680fe8946b1f81b4dbd",
+  "practice/python/medium/py-top-n-with-tie/solution.py": "750e08e42e587afa16d1034f8ff83fa760b4d54f57614b25bf8dd9de221862f1",
+  "practice/python/medium/py-moving-average/solution.py": "e4eab35c3d46c28b587dc05916872dc3b66937d584867b5a45ef71a58ef06345",
+  "practice/python/medium/py-two-sum-count/solution.py": "a21933cf83162e4a385d47c78b169a48bdcbaf32056ee698d3050369b5269300",
+  "practice/python/medium/py-running-total/solution.py": "555f319391a6eb5ea644d587d484b1a9e1c39a1c9c20441e46bd4c61fd61cc23",
+  "practice/python/hard/py-two-sum-indices/solution.py": "32ed2241c1e43af25e8e5f70b451757d791dc6f3798e9a7ad3e8d8b3bf0ca6d6",
+  "practice/python/hard/py-max-subarray/solution.py": "ac3ce3c641ed922a9fd5ca496b0af69135696f016816c98724a5be8a5aa0a3a4",
+  "practice/python/hard/py-longest-unique-substring/solution.py": "ad889f060bf8e97048170e7d8202630434a1db62fcfd0607ae6dda1cd53eb9c1"
 }

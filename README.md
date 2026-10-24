@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**15** problems solved on [Xom Data](https://xomdata.com/practice).
+**24** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 10 | 5 | 0 | 0 | 15 |
+| Python | 10 | 11 | 3 | 0 | 24 |
 
 **Recently solved**
 
+- [py-longest-unique-substring](https://xomdata.com/practice/py-longest-unique-substring) · Hard · 2026-10-24
+- [py-max-subarray](https://xomdata.com/practice/py-max-subarray) · Hard · 2026-10-24
+- [py-two-sum-indices](https://xomdata.com/practice/py-two-sum-indices) · Hard · 2026-10-24
+- [py-running-total](https://xomdata.com/practice/py-running-total) · Medium · 2026-10-24
+- [py-two-sum-count](https://xomdata.com/practice/py-two-sum-count) · Medium · 2026-10-22
+- [py-moving-average](https://xomdata.com/practice/py-moving-average) · Medium · 2026-10-22
+- [py-top-n-with-tie](https://xomdata.com/practice/py-top-n-with-tie) · Medium · 2026-10-21
+- [py-top-k](https://xomdata.com/practice/py-top-k) · Medium · 2026-10-21
+- [py-second-largest](https://xomdata.com/practice/py-second-largest) · Medium · 2026-10-20
 - [py-balanced-brackets](https://xomdata.com/practice/py-balanced-brackets) · Medium · 2026-10-17
-- [py-group-category](https://xomdata.com/practice/py-group-category) · Medium · 2026-10-17
-- [py-word-frequency](https://xomdata.com/practice/py-word-frequency) · Medium · 2026-10-16
-- [py-is-prime](https://xomdata.com/practice/py-is-prime) · Medium · 2026-10-16
-- [py-fizzbuzz](https://xomdata.com/practice/py-fizzbuzz) · Medium · 2026-10-15
-- [py-most-frequent](https://xomdata.com/practice/py-most-frequent) · Easy · 2026-10-15
-- [py-palindrome](https://xomdata.com/practice/py-palindrome) · Easy · 2026-10-15
-- [py-word-count](https://xomdata.com/practice/py-word-count) · Easy · 2026-10-14
-- [py-vowels](https://xomdata.com/practice/py-vowels) · Easy · 2026-10-14
-- [py-max-price](https://xomdata.com/practice/py-max-price) · Easy · 2026-10-14
 
-_Synced 15 solutions · last update 2026-10-17_
+_Synced 24 solutions · last update 2026-10-24_
 
 <!-- xomdata:stats:end -->
 
