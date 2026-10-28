@@ -22,5 +22,12 @@
   "practice/python/medium/py-running-total/solution.py": "555f319391a6eb5ea644d587d484b1a9e1c39a1c9c20441e46bd4c61fd61cc23",
   "practice/python/hard/py-two-sum-indices/solution.py": "32ed2241c1e43af25e8e5f70b451757d791dc6f3798e9a7ad3e8d8b3bf0ca6d6",
   "practice/python/hard/py-max-subarray/solution.py": "ac3ce3c641ed922a9fd5ca496b0af69135696f016816c98724a5be8a5aa0a3a4",
-  "practice/python/hard/py-longest-unique-substring/solution.py": "ad889f060bf8e97048170e7d8202630434a1db62fcfd0607ae6dda1cd53eb9c1"
+  "practice/python/hard/py-longest-unique-substring/solution.py": "ad889f060bf8e97048170e7d8202630434a1db62fcfd0607ae6dda1cd53eb9c1",
+  "practice/python/hard/py-merge-intervals/solution.py": "8782efc182b62d6f912489f14c5dd839713ead819fc4a0bf5589b0eda4f8f06b",
+  "practice/python/hard/py-valid-brackets/solution.py": "a845e091ca2968abc79a222d601091dc7f777a9a6ae5bc882c9d912183faa56f",
+  "practice/python/hard/py-anagram-groups/solution.py": "65f7e79264a6eeb5fb8a2b87f90b0ed7f6baa6dd5d25695760f9adc696f8febe",
+  "practice/python/hard/py-climb-stairs/solution.py": "001805bc0b9bcc1524acb01c3e8396a59497d608f82acd3b0a1c23c0856c6e74",
+  "practice/python/hard/py-count-islands/solution.py": "87e0ef06b3d5de7f794afd992ac18d655a70b24cd50b2b3a3266260c9b0043fe",
+  "practice/python/hard/py-spiral-order/solution.py": "41b4422656deeb404111090e6d10ef02c6d1426e336f3de1081b98d0c587cea2",
+  "practice/python/hard/py-word-break/solution.py": "b31e45b5ed753a542e9465fc4570f1ae2097e4a995f7d29df3090ecbb820463a"
 }
